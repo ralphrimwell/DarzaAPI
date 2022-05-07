@@ -22,7 +22,6 @@ public static void SendRequest(string email, string password)
 				{
 					Console.WriteLine("Correct credentials");
 					Console.WriteLine("auth token: " + response.Value);
-					Data.Hits.Add(email + ":" + password);
 				}
 				Console.WriteLine(response.Value);
 				Data.Checked++;
