@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarzaAPI", "DarzaAPI\DarzaAPI.csproj", "{4F3DB720-21E7-428F-8A4C-7468EA1443FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F3DB720-21E7-428F-8A4C-7468EA1443FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3DB720-21E7-428F-8A4C-7468EA1443FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3DB720-21E7-428F-8A4C-7468EA1443FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3DB720-21E7-428F-8A4C-7468EA1443FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55530F62-F2EE-4281-920B-3A13E6E0CB29}
+	EndGlobalSection
+EndGlobal
